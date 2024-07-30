@@ -1,6 +1,7 @@
+<!--
 ### Hi there, I am a developer 👋
 
-<!--
+
 ```
                              \\\\\\\
                             \\\\\\\\\\\\
@@ -38,6 +39,12 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=程序员，喜欢写代码，喜欢摄影。&author=liuhehong"  />
+
+:cherries: 一些技能
+  > 工作上主要使用 Kotlin，所以比较多的关注 Kotlin 及周边生态。最近也在学习新一代UI开发框架 Compose
+
+https://img.shields.io/badge/Java-FF9800?style=for-the-badge&logo=java&logoColor=white
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LLhon&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
