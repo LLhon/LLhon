@@ -23,8 +23,6 @@ _____________|','   ///_/-------------/   |
               |===========,'
 ```
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=程序员，喜欢写代码，喜欢摄影。&author=liuhehong"  />
-
 **LLhon/LLhon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -38,6 +36,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=程序员，喜欢写代码，喜欢摄影。&author=liuhehong"  />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LLhon&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
