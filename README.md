@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=程序员，喜欢写代码，喜欢摄影。&author=liuhehong"  />
+ <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=程序员，喜欢写代码，喜欢摄影，喜欢体验一切新鲜事物。&author=Hong"  />
 </p>
 
 :cherries: 一些技能
